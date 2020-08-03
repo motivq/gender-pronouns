@@ -11,7 +11,7 @@ go get github.com/motivq/gender-pronouns
 ### Usage
 
 ```
-import  github.com/motivq/gender-pronouns/pkg
+import  "github.com/motivq/gender-pronouns/pkg"
 
 func main(){
     subject := pronouns.They
